@@ -1,0 +1,3 @@
+Rainfall in mm.
+Temp in Celcuis
+Pesticides in Tonnes.
