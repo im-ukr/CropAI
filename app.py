@@ -55,7 +55,7 @@ Also, the SQL code should not have ``` in beginning or end and sql word in outpu
 
 import streamlit as st
 
-# Page configuration
+# Page configuration set
 st.set_page_config(page_title="I can Predict your Crop Yield :)")
 
 page_bg_color = """
