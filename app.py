@@ -89,3 +89,4 @@ if submit and question:
     except sqlite3.OperationalError as e:
         st.error(f"SQL error: {e}")
         print(f"SQL error: {e}")
+
